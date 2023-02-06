@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <PubmedArticleSet>
   <PubmedArticle>
-    <PMID>00000000</PMID>
+    <PMID>10901322</PMID>
     <ArticleTitle>John Snow and modern-day environmental epidemiology.</ArticleTitle>
   </PubmedArticle>
   <PubmedArticle>
-    <PMID>00000000</PMID>
+    <PMID>10901323</PMID>
     <ArticleTitle>John Snow: the first hired gun?</ArticleTitle>
   </PubmedArticle>
   <PubmedArticle>
@@ -17,11 +17,11 @@
     <ArticleTitle>Soft-tissue sarcoma and non-Hodgkin's lymphoma clusters around a municipal solid waste incinerator with high dioxin emission levels.</ArticleTitle>
   </PubmedArticle>
   <PubmedArticle>
-    <PMID>00000000</PMID>
+    <PMID>10901326</PMID>
     <ArticleTitle>Extremely low-frequency magnetic fields and childhood acute lymphoblastic leukemia: an exploratory analysis of alternative exposure metrics.</ArticleTitle>
   </PubmedArticle>
   <PubmedArticle>
-    <PMID>36054442</PMID>
+    <PMID>11384961</PMID>
     <ArticleTitle>Occupational exposure and lung cancer risk: a population-based case-referent study in Sweden.</ArticleTitle>
   </PubmedArticle>
   <PubmedArticle>
@@ -29,15 +29,375 @@
     <ArticleTitle>Electric blanket use and breast cancer in the Nurses' Health Study.</ArticleTitle>
   </PubmedArticle>
   <PubmedArticle>
-    <PMID>34453844</PMID>
+    <PMID>10901329</PMID>
     <ArticleTitle>Breast cancer risk associated with congeners of polychlorinated biphenyls.</ArticleTitle>
   </PubmedArticle>
   <PubmedArticle>
-    <PMID>00000000</PMID>
+    <PMID>10901330</PMID>
     <ArticleTitle>Relation between aluminum concentrations in drinking water and Alzheimer's disease: an 8-year follow-up study.</ArticleTitle>
   </PubmedArticle>
   <PubmedArticle>
-    <PMID>00000000</PMID>
+    <PMID>10901331</PMID>
     <ArticleTitle>Subject-domain approach to the study of air pollution effects on schoolchildren's illness absence.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10901332</PMID>
+    <ArticleTitle>Validity of annoyance scores for estimation of long term air pollution exposure in epidemiologic studies: the Swiss Study on Air Pollution and Lung Diseases in Adults (SAPALDIA).</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10901333</PMID>
+    <ArticleTitle>Measurement of low levels of arsenic exposure: a comparison of water and toenail concentrations.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10901334</PMID>
+    <ArticleTitle>External radiation exposure and mortality in a cohort of uranium processing workers.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10909947</PMID>
+    <ArticleTitle>Cocaine use during pregnancy and intrauterine growth retardation: new insights based on maternal hair tests.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10909948</PMID>
+    <ArticleTitle>Tocolytic magnesium sulfate exposure and risk of cerebral palsy among children with birth weights less than 1,750 grams.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>11453526</PMID>
+    <ArticleTitle>Critical growth phases for adult shortness.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10909950</PMID>
+    <ArticleTitle>Glucose intolerance and physical inactivity: the relative importance of low habitual energy expenditure and cardiorespiratory fitness.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10909951</PMID>
+    <ArticleTitle>Total homocysteine and estrogen status indicators in the Third National Health and Nutrition Examination Survey.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10909952</PMID>
+    <ArticleTitle>Multivitamin use and mortality in a large prospective study.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10909953</PMID>
+    <ArticleTitle>Are the obese at greater risk for depression?</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>16014770</PMID>
+    <ArticleTitle>How many foodborne outbreaks of Salmonella infection occurred in France in 1995? Application of the capture-recapture method to three surveillance systems.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10909955</PMID>
+    <ArticleTitle>Impact of protease inhibitors and other antiretroviral treatments on acquired immunodeficiency syndrome survival in San Francisco, California, 1987-1996.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10909956</PMID>
+    <ArticleTitle>Multiple modes of hepatitis A virus transmission among methamphetamine users.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>12236255</PMID>
+    <ArticleTitle>Where to go for practical advice.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10909945</PMID>
+    <ArticleTitle>Randomized controlled trial of audio computer-assisted self-interviewing: utility and acceptability in longitudinal studies. HIVNET Vaccine Preparedness Study Protocol Team.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>11282802</PMID>
+    <ArticleTitle>Comparison of National Death Index and World Wide Web death searches.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>36739257</PMID>
+    <ArticleTitle>Re: &quot;Interaction between tobacco and alcohol consumption and the risk of cancers of the upper aero-digestive tract in Brazil&quot;.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>36739257</PMID>
+    <ArticleTitle>Re: &quot;Parallel analyses of individual and ecologic data on residential radon, cofactors, and lung cancer in Sweden&quot;.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>36739257</PMID>
+    <ArticleTitle>Re: &quot;Placenta previa: preponderance of male sex at birth&quot;.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10933265</PMID>
+    <ArticleTitle>Choosing a retrospective design to assess joint genetic and environmental contributions to risk.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10933266</PMID>
+    <ArticleTitle>Risk factors for trachoma: 6-year follow-up of children aged 1 and 2 years.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10933267</PMID>
+    <ArticleTitle>Inverse association of physical fitness with plasma fibrinogen level in children: the Columbia University BioMarkers Study.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>36694122</PMID>
+    <ArticleTitle>Effect of continuing or stopping smoking during pregnancy on infant birth weight, crown-heel length, head circumference, ponderal index, and brain:body weight ratio.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10933269</PMID>
+    <ArticleTitle>Breast cancer and active and passive smoking: the role of the N-acetyltransferase 2 genotype.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10933270</PMID>
+    <ArticleTitle>Risk of ovarian cancer in relation to estrogen and progestin dose and use characteristics of oral contraceptives. SHARE Study Group. Steroid Hormones and Reproductions.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10933271</PMID>
+    <ArticleTitle>Oral contraceptive and benign ovarian tumors.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10933272</PMID>
+    <ArticleTitle>Lifetime risks, incubation period, and serial interval of tuberculosis.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>32358695</PMID>
+    <ArticleTitle>Adiposity and mortality in men.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10933274</PMID>
+    <ArticleTitle>Incidence of hypertension and educational attainment: the NHANES I epidemiologic followup study. First National Health and Nutrition Examination Survey.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10933275</PMID>
+    <ArticleTitle>Evaluation of alternative approaches to assign nutrient values to food groups in food frequency questionnaires.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>36739257</PMID>
+    <ArticleTitle>Re: &quot;Estimates of the annual number of clinically recognized pregnancies in the United States, 1981-1991&quot;.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>36739257</PMID>
+    <ArticleTitle>Re: &quot;Use of two-segmented logistic regression to estimate change-points in epidemiologic studies&quot;.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>36739257</PMID>
+    <ArticleTitle>Re: &quot;Does arsenic exposure increase the risk for circulatory disease?&quot;.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10968374</PMID>
+    <ArticleTitle>Exposure to nitrosamines, carbon black, asbestos, and talc and mortality from stomach, lung, and laryngeal cancer in a cohort of rubber workers.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10968375</PMID>
+    <ArticleTitle>Occupational and environmental risk factors for idiopathic pulmonary fibrosis: a multicenter case-control study. Collaborating Centers.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10968376</PMID>
+    <ArticleTitle>Effects of a community-wide health education program on cardiovascular disease morbidity and mortality: the Stanford Five-City Project.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10968377</PMID>
+    <ArticleTitle>Associations of weight change and weight variability with cardiovascular and all-cause mortality in the Chicago Western Electric Company Study.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10968378</PMID>
+    <ArticleTitle>Occupational status, educational level, and the prevalence of carotid atherosclerosis in a general population sample of middle-aged Swedish men and women: results from the Malmo Diet and Cancer Study.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10968379</PMID>
+    <ArticleTitle>Why do Mexican Americans give birth to few low-birth-weight infants?</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10968380</PMID>
+    <ArticleTitle>Community-based study of the transition to adulthood for adolescents with psychiatric disorder.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10968381</PMID>
+    <ArticleTitle>Breast cancer, lactation history, and serum organochlorines.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10968382</PMID>
+    <ArticleTitle>Current medicolegal and confidentiality issues in large, multicenter research programs.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>11130628</PMID>
+    <ArticleTitle>Factor analysis of self-reported symptoms: does it identify a Gulf War syndrome?</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10968384</PMID>
+    <ArticleTitle>Incidence of influenza-like illness, measured by a general practitioner sentinel system, is associated with day-to-day variations in respiratory health in panel studies.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>36739257</PMID>
+    <ArticleTitle>Re: &quot;Presenting statistical uncertainty in trends and dose-response relations&quot;.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>36739257</PMID>
+    <ArticleTitle>Re: &quot;Health problems in teenage daily smokers versus nonsmokers, Norway, 1995-1997: the Nord-Trondelag Health Study&quot;.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>11384960</PMID>
+    <ArticleTitle>Estimating particulate matter-mortality dose-response curves and threshold levels: an analysis of daily time-series for the 20 largest US cities.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10981452</PMID>
+    <ArticleTitle>Particulate matter-mortality exposure-response relations and threshold.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10981453</PMID>
+    <ArticleTitle>Racial disparity in pregnancy-related mortality associated with livebirth: can established risk factors explain it?</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10981454</PMID>
+    <ArticleTitle>Plasma fibrinogen and coronary heart disease in urban Japanese.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10981455</PMID>
+    <ArticleTitle>Relations among chronic medical conditions, medications, and automobile crashes in the elderly: a population-based case-control study.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10981456</PMID>
+    <ArticleTitle>Patterns of mammography use among Hispanic, American Indian, and non-Hispanic White women in New Mexico, 1994-1997.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10981457</PMID>
+    <ArticleTitle>Intimate partner violence prevalence estimation using telephone surveys: understanding the effect of nonresponse bias.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10981458</PMID>
+    <ArticleTitle>Arthritis prevalence and place of birth: findings from the 1994 Canadian National Population Health Survey.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10981459</PMID>
+    <ArticleTitle>Relation of childhood diet and body size to menarche and adolescent growth in girls.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10981460</PMID>
+    <ArticleTitle>Under- and overreporting of energy intake using urinary cations as biomarkers: relation to body mass index.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10981461</PMID>
+    <ArticleTitle>Relation of demographic and lifestyle factors to symptoms in a multi-racial/ethnic population of women 40-55 years of age.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10981462</PMID>
+    <ArticleTitle>Does improvement in case ascertainment explain the increase in sporadic Creutzfeldt-Jakob disease since 1970 in the United Kingdom?</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10981463</PMID>
+    <ArticleTitle>Empirical study of parental recall bias.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10981464</PMID>
+    <ArticleTitle>Estimating genotype relative risks in case-parental control studies: an optimal weighting approach.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>36739257</PMID>
+    <ArticleTitle>Re: &quot;differences in socioeconomic status and survival among white and black men with prostate cancer&quot;.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>36739257</PMID>
+    <ArticleTitle>Re: &quot;implications of a new dietary measurement error model for estimation of relative risk: application to four calibration studies&quot;.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>36739257</PMID>
+    <ArticleTitle>Re: &quot;parental age at child's birth and son's risk of prostate cancer: the Framingham Study&quot;.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10997539</PMID>
+    <ArticleTitle>Aggregation of lung cancer in families: results from a population-based case-control study in Germany.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10997540</PMID>
+    <ArticleTitle>Relation between body mass index and lung cancer risk in men and women never and former smokers.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10997541</PMID>
+    <ArticleTitle>Pooled analysis of prospective cohort studies on height, weight, and breast cancer risk.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10997542</PMID>
+    <ArticleTitle>Survival in epithelial ovarian cancer patients with prior breast cancer.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10997543</PMID>
+    <ArticleTitle>Relation between psychosocial risk factors and incident erectile dysfunction: prospective results from the Massachusetts Male Aging Study.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10997544</PMID>
+    <ArticleTitle>Night blindness during pregnancy and subsequent mortality among women in Nepal: effects of vitamin A and beta-carotene supplementation.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10997545</PMID>
+    <ArticleTitle>Differences in energy, nutrient, and food intakes in a US sample of Mexican-American women and men: findings from the Third National Health and Nutrition Examination Survey, 1988-1994.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10997546</PMID>
+    <ArticleTitle>Incidence of stroke and season of the year: evidence of an association.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10997547</PMID>
+    <ArticleTitle>Selection bias in determining the age dependence of waiting time to pregnancy.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10997548</PMID>
+    <ArticleTitle>Methodological issues in estimating smoking-attributable mortality in the United States.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>10997549</PMID>
+    <ArticleTitle>Selection of control groups by using a commercial database and random digit dialing.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>36739257</PMID>
+    <ArticleTitle>Re: &quot;Office equipment and supplies: a modern occupational health concern?&quot;.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>36739257</PMID>
+    <ArticleTitle>Re:&quot;Transmissibility and persistence of oral polio vaccine viruses: implications for the global poliomyelitis eradication initiative&quot;.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>11032153</PMID>
+    <ArticleTitle>Gestational age and growth rate of fetal mass are inversely associated with systolic blood pressure in young adults: an epidemiologic study of 165,136 Swedish men aged 18 years.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>11032154</PMID>
+    <ArticleTitle>Invited commentary: association between restricted fetal growth and adult chronic disease: is it causal? Is it important?</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>11032155</PMID>
+    <ArticleTitle>Poor agreement between self-reported birth weight and birth weight from original records in adult women.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>11032156</PMID>
+    <ArticleTitle>Association of educational achievement with pulsatile arterial diameter change of the common carotid artery: the Atherosclerosis Risk in Communities (ARIC) Study, 1987-1992.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>11032157</PMID>
+    <ArticleTitle>Factors predictive of ischemic heart disease mortality in foundry workers exposed to carbon monoxide.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>11032158</PMID>
+    <ArticleTitle>Visual impairment and risk of hip fracture.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>11032159</PMID>
+    <ArticleTitle>Increased risk of agricultural injury among African-American farm workers from Alabama and Mississippi.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>11032160</PMID>
+    <ArticleTitle>Do common mental disorders increase cigarette smoking? Results from five waves of a population-based panel cohort study.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>11032161</PMID>
+    <ArticleTitle>Family history, maternal smoking, and clubfoot: an indication of a gene-environment interaction.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>11032162</PMID>
+    <ArticleTitle>Strong decline in herpes simplex virus antibodies over time among young homosexual men is associated with changing sexual behavior.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>11032163</PMID>
+    <ArticleTitle>Influenza vaccination and the risk of primary cardiac arrest.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>11032164</PMID>
+    <ArticleTitle>Assessment of physical activity with a single global question in a large, multiethnic sample of midlife women.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>36739257</PMID>
+    <ArticleTitle>Re: &quot;Problems due to small samples and sparse data in conditional logistic regression analysis&quot;.</ArticleTitle>
+  </PubmedArticle>
+  <PubmedArticle>
+    <PMID>36739257</PMID>
+    <ArticleTitle>Re: &quot;Asymptotic bias and efficiency in case-control studies of candidate genes and gene-environment interactions: basic family designs&quot;.</ArticleTitle>
   </PubmedArticle>
 </PubmedArticleSet>

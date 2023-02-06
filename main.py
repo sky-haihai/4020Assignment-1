@@ -8,8 +8,9 @@ from textwrap import indent
 import os 
 
 GROUP_NUM=1 #define group number
-LIMITER=10  #save time when debugging
-
+LIMITER=100  #save time when debugging
+ESEARCH_URL='https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?'
+API_KEY='42566828cae548720b64e51c7d2f4754e608'
 
 #1. Parse XML/ Extract Article Titles 
 tree=ET.parse("res/4020a1-datasets.xml")
@@ -23,9 +24,6 @@ for articleBody in root.findall('PubmedArticle'):
 
 
 #2. Send Url Request to PubMed Server
-eSearchUrl='https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?'
-eSpellingUrl='https://eutils.ncbi.nlm.nih.gov/entrez/eutils/espell.fcgi?'
-
 outputRoot=ET.Element('PubmedArticleSet')
 
 for title in titles:
@@ -33,20 +31,14 @@ for title in titles:
     break
 
   #original title
-  params={'db':'pubmed','term':title}
+  params={'db':'pubmed','term':title,'field':'title','api_key':API_KEY}
   quotes=ulparse.urlencode(params)
 
-  #corrected title
-  spellingStr=ulreq.urlopen(eSpellingUrl+quotes).read()
-  spellingRoot=ET.fromstring(spellingStr);
-  correctedTitle=spellingRoot.find('CorrectedQuery').text
+  finalUrl=ESEARCH_URL+quotes
+  print(finalUrl)
 
-  #use the new title as search quotes
-  params={'db':'pubmed','term':correctedTitle}
-  quotes=ulparse.urlencode(params)
-
-  responseStr=ulreq.urlopen(eSearchUrl+quotes).read()
-  time.sleep(1)
+  responseStr=ulreq.urlopen(finalUrl).read()
+  time.sleep(0.1)
   responseRoot=ET.fromstring(responseStr)
 
   #if has result use the first one
