@@ -1,8 +1,0 @@
-{
-  "extends": "@modern-js/tsconfig/base",
-  "compilerOptions": {
-    "outDir": "dist",
-    "declaration": true,
-    "sourceMap": true
-  }
-}
