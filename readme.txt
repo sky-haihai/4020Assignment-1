@@ -7,7 +7,7 @@ Option 1: VS Code
 3. Open a new terminal and Type "py main.py" to execute the script
 4. Once finished, the result will be saved to the path: "res/group1_result.xml" relative to the root directory
 
-Option 2: Windows Power Shell
+Option 2: Windows Cmd
 
 1. Change directory to the root directory of the project
 2. Execute "py main.py"
