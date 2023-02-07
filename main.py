@@ -8,7 +8,7 @@ from textwrap import indent
 import os 
 
 GROUP_NUM=1 #define group number
-LIMITER=100  #save time when debugging
+LIMITER=100000  #save time when debugging
 ESEARCH_URL='https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?'
 API_KEY='42566828cae548720b64e51c7d2f4754e608'
 
@@ -37,8 +37,16 @@ for title in titles:
   finalUrl=ESEARCH_URL+quotes
   print(finalUrl)
 
-  responseStr=ulreq.urlopen(finalUrl).read()
-  time.sleep(0.1)
+  locker=True
+  while(locker):
+    try:
+      responseStr=ulreq.urlopen(finalUrl).read()
+      locker=False
+    except:
+      print('an error occured')
+      locker=True
+
+  #time.sleep(0.2)
   responseRoot=ET.fromstring(responseStr)
 
   #if has result use the first one
