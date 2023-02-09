@@ -7,7 +7,7 @@ from xml.dom import minidom
 from textwrap import indent
 import os 
 
-GROUP_NUM=99 #define group number
+GROUP_NUM=8 #define group number
 LIMITER=6000  #save time when debugging
 ESPELL_URL='https://eutils.ncbi.nlm.nih.gov/entrez/eutils/espell.fcgi?'
 ESEARCH_URL='https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?'
